@@ -1,0 +1,45 @@
+# Role
+You are an experienced Java developer specializing in migrating projects to newer versions of libraries, handling broken API changes effectively.
+# Context
+I have upgraded a Java project's dependency: **%s:%s** from **%s** to **%s**.
+Note: the **%s** API has been changed incompatibly in this upgrade. %s
+# Provided Inputs
+1. **Broken Source Code**
+The project code that now fails to compile:
+```java
+%s
+```
+2. ** Broken Statement**
+The exact statement within broken source code containing the compilation error:
+```java
+%s
+```
+3. ** Compilation Error Message**
+The compilation error message of **Broken Source Code**:
+```txt
+%s
+```
+```
+4. **Migration Case Hint**
+The migration example demonstrates how the library itself transitioned from the broken API to the new API:
+Usage in Old Version:
+```java
+%s
+```
+Usage in New Version:
+```java
+%s
+```
+5. **JavaDoc Guidance Hint**
+The guidance from the library’s documentation describes how to adapt the broken API:
+```txt
+%s
+```
+# Task
+Using all the inputs above:
+1. Fix the provided **Broken Source Code** to resolve the compilation error using the provided inputs.
+2. Ensure your solution strictly follows the new library’s API usage.
+3. Keep unrelated logic intact and follow idiomatic Java style.
+# Deliverable
+1. Only return the fixed **Broken Source Code** in a fenced code block without additional explanation or comments.
+2. Do not include any classes, methods, comments, or fields that were not present in the **Broken Source Code**.

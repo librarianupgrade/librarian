@@ -1,0 +1,15 @@
+{
+    "id": "locationtech__GT__spatial4j__1",
+    "client_project_name": "locationtech/spatial4j",
+    "github_url": "git@github.com:locationtech/spatial4j.git",
+    "before_upgrade_commit": "6e4bf7a6af41f9f5a58c61fc936e51d866eccc7a",
+    "after_upgrade_commit": "9d75547c183f14b2bf5490394d06164d1d4f823b",
+    "incompatibility_category": "Abstracted Method Return Type Change",
+    "root_path": "",
+    "change_pom_path": "",
+    "old_version": "pom.xml.old",
+    "new_version": "pom.xml.new",
+    "jdk_version": "1.8",
+    "fixed_commit_url": "https://github.com/locationtech/spatial4j/commit/9d75547c183f14b2bf5490394d06164d1d4f823b",
+    "fix_type": 0
+}

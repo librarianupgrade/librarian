@@ -1,0 +1,15 @@
+{
+    "id": "liuweijw__GT__fw-cloud-framework__1",
+    "client_project_name": "liuweijw/fw-cloud-framework",
+    "github_url": "git@github.com:liuweijw/fw-cloud-framework.git",
+    "before_upgrade_commit": "1ba8834b723b6a60a4f57d6c052b1d39f6f577ca",
+    "after_upgrade_commit": "9a3f71ceb37111d33ddaa8b90ce756e08c351f16",
+    "incompatibility_category": "Method Parameter Type Change",
+    "root_path": "",
+    "change_pom_path": "",
+    "old_version": "pom.xml.old",
+    "new_version": "pom.xml.new",
+    "jdk_version": "1.8",
+    "fixed_commit_url": "https://github.com/liuweijw/fw-cloud-framework/commit/9a3f71ceb37111d33ddaa8b90ce756e08c351f16",
+    "fix_type": 0
+}

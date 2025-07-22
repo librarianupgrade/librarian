@@ -1,0 +1,670 @@
+[
+  {
+    "group_id": "cn.cerc",
+    "artifact_id": "summer-core"
+  },
+  {
+    "group_id": "cn.hutool",
+    "artifact_id": "hutool-all"
+  },
+  {
+    "group_id": "com.alibaba.csp",
+    "artifact_id": "sentinel-transport-common"
+  },
+  {
+    "group_id": "com.aliyun.openservices",
+    "artifact_id": "aliyun-log-producer"
+  },
+  {
+    "group_id": "com.amazonaws",
+    "artifact_id": "aws-java-sdk"
+  },
+  {
+    "group_id": "com.baidu.aip",
+    "artifact_id": "java-sdk"
+  },
+  {
+    "group_id": "com.baomidou",
+    "artifact_id": "mybatis-plus-core"
+  },
+  {
+    "group_id": "com.baomidou",
+    "artifact_id": "mybatis-plus-extension"
+  },
+  {
+    "group_id": "com.bbossgroups.plugins",
+    "artifact_id": "bboss-datatran-core"
+  },
+  {
+    "group_id": "com.couchbase.client",
+    "artifact_id": "dcp-client"
+  },
+  {
+    "group_id": "com.drewnoakes",
+    "artifact_id": "metadata-extractor"
+  },
+  {
+    "group_id": "com.facebook.presto",
+    "artifact_id": "presto-spi"
+  },
+  {
+    "group_id": "com.fasterxml.jackson.core",
+    "artifact_id": "jackson-databind"
+  },
+  {
+    "group_id": "com.github.binarywang",
+    "artifact_id": "weixin-java-common"
+  },
+  {
+    "group_id": "com.github.binarywang",
+    "artifact_id": "weixin-java-cp"
+  },
+  {
+    "group_id": "com.github.binarywang",
+    "artifact_id": "weixin-java-miniapp"
+  },
+  {
+    "group_id": "com.github.binarywang",
+    "artifact_id": "weixin-java-mp"
+  },
+  {
+    "group_id": "com.github.binarywang",
+    "artifact_id": "weixin-java-pay"
+  },
+  {
+    "group_id": "com.github.cliftonlabs",
+    "artifact_id": "json-simple"
+  },
+  {
+    "group_id": "com.github.dreamroute",
+    "artifact_id": "mybatis-pro-service"
+  },
+  {
+    "group_id": "com.github.fangjinuo.langx",
+    "artifact_id": "langx-java"
+  },
+  {
+    "group_id": "com.github.jsqlparser",
+    "artifact_id": "jsqlparser"
+  },
+  {
+    "group_id": "com.github.junrar",
+    "artifact_id": "junrar"
+  },
+  {
+    "group_id": "com.github.oshi",
+    "artifact_id": "oshi-core"
+  },
+  {
+    "group_id": "com.github.vladimir-bukhtoyarov",
+    "artifact_id": "bucket4j-core"
+  },
+  {
+    "group_id": "com.github.xmlet",
+    "artifact_id": "htmlApi"
+  },
+  {
+    "group_id": "com.google.cloud.tools",
+    "artifact_id": "appengine-plugins-core"
+  },
+  {
+    "group_id": "com.google.code.gson",
+    "artifact_id": "gson"
+  },
+  {
+    "group_id": "com.google.guava",
+    "artifact_id": "guava"
+  },
+  {
+    "group_id": "com.google.inject",
+    "artifact_id": "guice"
+  },
+  {
+    "group_id": "com.google.protobuf",
+    "artifact_id": "protobuf-java"
+  },
+  {
+    "group_id": "com.j2html",
+    "artifact_id": "j2html"
+  },
+  {
+    "group_id": "com.jfinal",
+    "artifact_id": "jfinal"
+  },
+  {
+    "group_id": "com.launchdarkly",
+    "artifact_id": "okhttp-eventsource"
+  },
+  {
+    "group_id": "com.metamx",
+    "artifact_id": "http-client"
+  },
+  {
+    "group_id": "com.moilioncircle",
+    "artifact_id": "redis-replicator"
+  },
+  {
+    "group_id": "com.nepxion",
+    "artifact_id": "discovery-common"
+  },
+  {
+    "group_id": "com.nepxion",
+    "artifact_id": "discovery-plugin-strategy"
+  },
+  {
+    "group_id": "com.netflix.rxjava",
+    "artifact_id": "rxjava-core"
+  },
+  {
+    "group_id": "com.ning",
+    "artifact_id": "async-http-client"
+  },
+  {
+    "group_id": "com.opencsv",
+    "artifact_id": "opencsv"
+  },
+  {
+    "group_id": "com.oracle.substratevm",
+    "artifact_id": "svm"
+  },
+  {
+    "group_id": "com.paritytrading.philadelphia",
+    "artifact_id": "philadelphia-core"
+  },
+  {
+    "group_id": "com.qcloud",
+    "artifact_id": "cos_api"
+  },
+  {
+    "group_id": "com.sparkjava",
+    "artifact_id": "spark-core"
+  },
+  {
+    "group_id": "com.spotify",
+    "artifact_id": "docker-client"
+  },
+  {
+    "group_id": "com.squareup.okhttp3",
+    "artifact_id": "okhttp"
+  },
+  {
+    "group_id": "com.thankjava.toolkit",
+    "artifact_id": "fast-toolkit"
+  },
+  {
+    "group_id": "com.tngtech.archunit",
+    "artifact_id": "archunit"
+  },
+  {
+    "group_id": "com.weibo",
+    "artifact_id": "motan-core"
+  },
+  {
+    "group_id": "com.worksap.nlp",
+    "artifact_id": "sudachi"
+  },
+  {
+    "group_id": "com.xceptance",
+    "artifact_id": "neodymium-library"
+  },
+  {
+    "group_id": "commons-cli",
+    "artifact_id": "commons-cli"
+  },
+  {
+    "group_id": "commons-configuration",
+    "artifact_id": "commons-configuration"
+  },
+  {
+    "group_id": "commons-io",
+    "artifact_id": "commons-io"
+  },
+  {
+    "group_id": "commons-pool",
+    "artifact_id": "commons-pool"
+  },
+  {
+    "group_id": "cool.scx",
+    "artifact_id": "scx-common"
+  },
+  {
+    "group_id": "de.rototor.pdfbox",
+    "artifact_id": "graphics2d"
+  },
+  {
+    "group_id": "de.ruedigermoeller",
+    "artifact_id": "fst"
+  },
+  {
+    "group_id": "dnsjava",
+    "artifact_id": "dnsjava"
+  },
+  {
+    "group_id": "io.dropwizard",
+    "artifact_id": "dropwizard-configuration"
+  },
+  {
+    "group_id": "io.github.hakky54",
+    "artifact_id": "sslcontext-kickstart"
+  },
+  {
+    "group_id": "io.grpc",
+    "artifact_id": "grpc-core"
+  },
+  {
+    "group_id": "io.kubernetes",
+    "artifact_id": "client-java"
+  },
+  {
+    "group_id": "io.kubernetes",
+    "artifact_id": "client-java-api"
+  },
+  {
+    "group_id": "io.micrometer",
+    "artifact_id": "micrometer-registry-prometheus"
+  },
+  {
+    "group_id": "io.minio",
+    "artifact_id": "minio"
+  },
+  {
+    "group_id": "io.netty",
+    "artifact_id": "netty"
+  },
+  {
+    "group_id": "io.netty",
+    "artifact_id": "netty-all"
+  },
+  {
+    "group_id": "io.opentelemetry",
+    "artifact_id": "opentelemetry-semconv"
+  },
+  {
+    "group_id": "io.reactivex.rxjava2",
+    "artifact_id": "rxjava"
+  },
+  {
+    "group_id": "io.seata",
+    "artifact_id": "seata-all"
+  },
+  {
+    "group_id": "io.seata",
+    "artifact_id": "seata-core"
+  },
+  {
+    "group_id": "io.springfox",
+    "artifact_id": "springfox-spring-web"
+  },
+  {
+    "group_id": "io.springfox",
+    "artifact_id": "springfox-swagger2"
+  },
+  {
+    "group_id": "io.vertx",
+    "artifact_id": "vertx-core"
+  },
+  {
+    "group_id": "io.vertx",
+    "artifact_id": "vertx-web"
+  },
+  {
+    "group_id": "io.zeebe",
+    "artifact_id": "zb-exporter-api"
+  },
+  {
+    "group_id": "io.zeebe",
+    "artifact_id": "zeebe-client-java"
+  },
+  {
+    "group_id": "io.zeebe",
+    "artifact_id": "zeebe-test"
+  },
+  {
+    "group_id": "junit",
+    "artifact_id": "junit"
+  },
+  {
+    "group_id": "me.zhyd.oauth",
+    "artifact_id": "JustAuth"
+  },
+  {
+    "group_id": "net.bytebuddy",
+    "artifact_id": "byte-buddy"
+  },
+  {
+    "group_id": "net.dreamlu",
+    "artifact_id": "mica-net-core"
+  },
+  {
+    "group_id": "net.jodah",
+    "artifact_id": "failsafe"
+  },
+  {
+    "group_id": "net.jrouter",
+    "artifact_id": "jrouter"
+  },
+  {
+    "group_id": "net.sf.saxon",
+    "artifact_id": "Saxon-HE"
+  },
+  {
+    "group_id": "net.sourceforge.htmlunit",
+    "artifact_id": "htmlunit"
+  },
+  {
+    "group_id": "net.sourceforge.owlapi",
+    "artifact_id": "owlapi-distribution"
+  },
+  {
+    "group_id": "net.sourceforge.plantuml",
+    "artifact_id": "plantuml"
+  },
+  {
+    "group_id": "net.ttddyy",
+    "artifact_id": "datasource-proxy"
+  },
+  {
+    "group_id": "ognl",
+    "artifact_id": "ognl"
+  },
+  {
+    "group_id": "org.apache.commons",
+    "artifact_id": "commons-compress"
+  },
+  {
+    "group_id": "org.apache.ftpserver",
+    "artifact_id": "ftpserver-core"
+  },
+  {
+    "group_id": "org.apache.hive",
+    "artifact_id": "hive-exec"
+  },
+  {
+    "group_id": "org.apache.httpcomponents",
+    "artifact_id": "httpcore"
+  },
+  {
+    "group_id": "org.apache.jena",
+    "artifact_id": "jena-arq"
+  },
+  {
+    "group_id": "org.apache.jena",
+    "artifact_id": "jena-core"
+  },
+  {
+    "group_id": "org.apache.lucene",
+    "artifact_id": "lucene-core"
+  },
+  {
+    "group_id": "org.apache.maven.reporting",
+    "artifact_id": "maven-reporting-api"
+  },
+  {
+    "group_id": "org.apache.maven.shared",
+    "artifact_id": "maven-artifact-transfer"
+  },
+  {
+    "group_id": "org.apache.maven.shared",
+    "artifact_id": "maven-dependency-tree"
+  },
+  {
+    "group_id": "org.apache.oltu.oauth2",
+    "artifact_id": "org.apache.oltu.oauth2.client"
+  },
+  {
+    "group_id": "org.apache.pdfbox",
+    "artifact_id": "pdfbox"
+  },
+  {
+    "group_id": "org.apache.poi",
+    "artifact_id": "poi"
+  },
+  {
+    "group_id": "org.apache.poi",
+    "artifact_id": "poi-ooxml"
+  },
+  {
+    "group_id": "org.apache.rocketmq",
+    "artifact_id": "rocketmq-common"
+  },
+  {
+    "group_id": "org.apache.santuario",
+    "artifact_id": "xmlsec"
+  },
+  {
+    "group_id": "org.apache.solr",
+    "artifact_id": "solr-core"
+  },
+  {
+    "group_id": "org.apache.sshd",
+    "artifact_id": "sshd-core"
+  },
+  {
+    "group_id": "org.apache.tika",
+    "artifact_id": "tika-parsers"
+  },
+  {
+    "group_id": "org.assertj",
+    "artifact_id": "assertj-core"
+  },
+  {
+    "group_id": "org.asynchttpclient",
+    "artifact_id": "async-http-client"
+  },
+  {
+    "group_id": "org.b3log",
+    "artifact_id": "latke"
+  },
+  {
+    "group_id": "org.b3log",
+    "artifact_id": "latke-core"
+  },
+  {
+    "group_id": "org.bouncycastle",
+    "artifact_id": "bcpg-jdk15on"
+  },
+  {
+    "group_id": "org.bouncycastle",
+    "artifact_id": "bcprov-jdk15on"
+  },
+  {
+    "group_id": "org.bouncycastle",
+    "artifact_id": "bcprov-jdk18on"
+  },
+  {
+    "group_id": "org.codehaus.plexus",
+    "artifact_id": "plexus-archiver"
+  },
+  {
+    "group_id": "org.codehaus.plexus",
+    "artifact_id": "plexus-utils"
+  },
+  {
+    "group_id": "org.eclipse.jgit",
+    "artifact_id": "org.eclipse.jgit"
+  },
+  {
+    "group_id": "org.eclipse.leshan",
+    "artifact_id": "leshan-client-cf"
+  },
+  {
+    "group_id": "org.eclipse.leshan",
+    "artifact_id": "leshan-core"
+  },
+  {
+    "group_id": "org.elasticsearch",
+    "artifact_id": "elasticsearch"
+  },
+  {
+    "group_id": "org.elasticsearch",
+    "artifact_id": "elasticsearch-core"
+  },
+  {
+    "group_id": "org.elasticsearch",
+    "artifact_id": "elasticsearch-x-content"
+  },
+  {
+    "group_id": "org.hdrhistogram",
+    "artifact_id": "HdrHistogram"
+  },
+  {
+    "group_id": "org.hibernate.orm",
+    "artifact_id": "hibernate-core"
+  },
+  {
+    "group_id": "org.java-websocket",
+    "artifact_id": "Java-WebSocket"
+  },
+  {
+    "group_id": "org.jbehave",
+    "artifact_id": "jbehave-core"
+  },
+  {
+    "group_id": "org.jboss",
+    "artifact_id": "jboss-vfs"
+  },
+  {
+    "group_id": "org.jgroups",
+    "artifact_id": "jgroups"
+  },
+  {
+    "group_id": "org.joda",
+    "artifact_id": "joda-beans"
+  },
+  {
+    "group_id": "org.junit.jupiter",
+    "artifact_id": "junit-jupiter-api"
+  },
+  {
+    "group_id": "org.jvirtanen.nassau",
+    "artifact_id": "nassau"
+  },
+  {
+    "group_id": "org.locationtech.jts",
+    "artifact_id": "jts-core"
+  },
+  {
+    "group_id": "org.mariadb.jdbc",
+    "artifact_id": "mariadb-java-client"
+  },
+  {
+    "group_id": "org.matsim",
+    "artifact_id": "matsim"
+  },
+  {
+    "group_id": "org.minbox.framework",
+    "artifact_id": "message-pipe-client"
+  },
+  {
+    "group_id": "org.mock-server",
+    "artifact_id": "mockserver-client-java"
+  },
+  {
+    "group_id": "org.mockito",
+    "artifact_id": "mockito-core"
+  },
+  {
+    "group_id": "org.openjdk.jmh",
+    "artifact_id": "jmh-core"
+  },
+  {
+    "group_id": "org.ow2.asm",
+    "artifact_id": "asm"
+  },
+  {
+    "group_id": "org.pitest",
+    "artifact_id": "pitest"
+  },
+  {
+    "group_id": "org.postgresql",
+    "artifact_id": "postgresql"
+  },
+  {
+    "group_id": "org.redisson",
+    "artifact_id": "redisson"
+  },
+  {
+    "group_id": "org.reflections",
+    "artifact_id": "reflections"
+  },
+  {
+    "group_id": "org.rocksdb",
+    "artifact_id": "rocksdbjni"
+  },
+  {
+    "group_id": "org.seleniumhq.selenium",
+    "artifact_id": "selenium-api"
+  },
+  {
+    "group_id": "org.seleniumhq.selenium",
+    "artifact_id": "selenium-remote-driver"
+  },
+  {
+    "group_id": "org.seleniumhq.selenium",
+    "artifact_id": "selenium-server"
+  },
+  {
+    "group_id": "org.seleniumhq.selenium",
+    "artifact_id": "selenium-support"
+  },
+  {
+    "group_id": "org.smartboot.socket",
+    "artifact_id": "aio-enhance"
+  },
+  {
+    "group_id": "org.snmp4j",
+    "artifact_id": "snmp4j-agent"
+  },
+  {
+    "group_id": "org.springframework.cloud",
+    "artifact_id": "spring-cloud-config-client"
+  },
+  {
+    "group_id": "org.springframework.data",
+    "artifact_id": "spring-data-commons"
+  },
+  {
+    "group_id": "org.springframework.security",
+    "artifact_id": "spring-security-core"
+  },
+  {
+    "group_id": "org.springframework",
+    "artifact_id": "spring-beans"
+  },
+  {
+    "group_id": "org.t-io",
+    "artifact_id": "tio-core"
+  },
+  {
+    "group_id": "org.t-io",
+    "artifact_id": "tio-websocket-server"
+  },
+  {
+    "group_id": "org.yaml",
+    "artifact_id": "snakeyaml"
+  },
+  {
+    "group_id": "org.zeromq",
+    "artifact_id": "jeromq"
+  },
+  {
+    "group_id": "redis.clients",
+    "artifact_id": "jedis"
+  },
+  {
+    "group_id": "ro.isdc.wro4j",
+    "artifact_id": "wro4j-core"
+  },
+  {
+    "group_id": "sc.fiji",
+    "artifact_id": "TrackMate"
+  },
+  {
+    "group_id": "sc.fiji",
+    "artifact_id": "bigdataviewer-core"
+  },
+  {
+    "group_id": "us.fatehi",
+    "artifact_id": "schemacrawler"
+  }
+]
