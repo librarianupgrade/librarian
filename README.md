@@ -1,13 +1,31 @@
-## Librarian: Fixing Incompatibility Errors Guided by Library Knowledge for Automatic Library Upgrade
+## `Librarian`: Fixing Incompatibility Errors Guided by Library Knowledge for Automatic Library Upgrade
 
 ---
 Librarian is a **LLM-based** approach designed to fix incompatibility errors in client projects after upgrading a dependent library. It combines client‑side broken API usage context with library‑side fix hints in four LLM‑empowered phases: first identifying and heuristically ordering compilation errors, then extracting inter‑procedural data‑flow slices around each broken API in the client, next mining declaration changes and usage‑context diffs across library versions, and finally driving an LLM to generate and iteratively refine targeted fixes based on compilation feedback. Our approach surpasses the state‑of‑the‑art.
 
 ### Overview
 <p style="text-align: center;">
-    <img src="./assets/approach.png" alt="Overview of Magneto" style="width: 1042px; text-align: center;" />
+    <img src="./assets/approach.png" alt="Overview of Librarian" style="width: 1042px; text-align: center;" />
 </p>
 
+### Scope of `Librarian`
+Librarian can fix 5 class-level error types, 8 method-level error types, and 2 fieled-level error types.
+- Class-Level Error Type: ❶ Removed Class  ❷ Renamed Class  ❸ Class Accessibility Change  ❹ Class Generic Type Change  ❺ Class Type Change.
+- Method-Level Error Type: ❶ Removed Method  ❷ Method Parameters Change  ❸ Unimplemented Abstract Method  ❹ Method Accessibility Change  ❺ Ambiguous Method  ❻ Non-Overridable Method  ❼  Method Return Type Change ❽ Method Exception Change
+- Field-Level Error Type: ❶ Removed Field. ❷ Field Accessibility Change
+
+
+### Output Example of `Librarian`
+
+<p style="text-align: center;">
+    <img src="./assets/example1.png" alt="Example One" style="width: 1042px; text-align: center;" />
+</p>
+
+--- 
+
+<p style="text-align: center;">
+    <img src="./assets/example2.png" alt="Example Two" style="width: 1042px; text-align: center;" />
+</p>
 
 ### Getting Started
 #### File Structure
